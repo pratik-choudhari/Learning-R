@@ -13,10 +13,10 @@ Everyone is welcome to contribute, steps for contributing:
 
 Added:
 - Datatypes
+- Conditions and loops 
 
 To do:
 - Operators in R
-- Conditions and loops 
 - data manipulation using dplyr
 - data viz using ggplot2
 - EDA on a built-in dataset
