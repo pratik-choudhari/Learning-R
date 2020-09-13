@@ -15,6 +15,7 @@ Added:
 - Datatypes
 
 To do:
+- Operators in R
 - Conditions and loops 
 - data manipulation using dplyr
 - data viz using ggplot2
