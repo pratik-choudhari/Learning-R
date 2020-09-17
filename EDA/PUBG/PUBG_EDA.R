@@ -13,6 +13,7 @@
 
 library(ggplot2)
 library(moments)
+library(DataExplorer)
 
 #set project file's source as working directory
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
