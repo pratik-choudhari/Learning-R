@@ -11,6 +11,8 @@ Everyone is welcome to contribute, steps for contributing:
 7. Issue a pull request from forked repo to this repo.
 8. Get your name in CONTRIBUTING.md!
 
+__Note: Add dataset only in zip format and if size less than an MB, else add link to the dataset in a readme file.__
+
 Added:
 - Datatypes
 - Conditions and loops 
