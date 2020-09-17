@@ -20,7 +20,7 @@ getwd()
 
 ##loading the dataset (csv file)
 ##The dataset has data about restaurant's name, location,price, ratings
-pubg<- read.csv("PUBG.csv")
+pubg<- read.csv("11_PUBG.csv")
 pubg
 
 ## INTRODUCTION to our data
