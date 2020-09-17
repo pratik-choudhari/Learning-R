@@ -9,7 +9,7 @@ Everyone is welcome to contribute, steps for contributing:
 5. ``git commit -m <your_message>`` your changes into development branch.
 6. ``git push origin development`` into your forked repository.
 7. Issue a pull request from forked repo to this repo.
-8. Get your name in CONTRIBUTING.md!
+8. Get your name in CONTRIBUTORS.md!
 
 __Note: Add dataset only in zip format and if size less than an MB, else add link to the dataset in a readme file.__
 
