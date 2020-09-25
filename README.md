@@ -22,3 +22,6 @@ To do:
 - data manipulation using dplyr
 - data viz using ggplot2
 - EDA on a built-in dataset
+
+Resources:
+R Programming for Data Science(book) - downloaded for free from [here](https://leanpub.com/rprogramming).
