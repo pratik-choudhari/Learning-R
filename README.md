@@ -16,9 +16,9 @@ __Note: Add dataset only in zip format and if size less than an MB, else add lin
 Added:
 - Datatypes
 - Conditions and loops 
+- Operators in R
 
 To do:
-- Operators in R
 - data manipulation using dplyr
 - data viz using ggplot2
 - EDA on a built-in dataset
