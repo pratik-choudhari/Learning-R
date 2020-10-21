@@ -1,5 +1,5 @@
-# Learning-R
-A repository to document whatever I learn in R.
+# Learning-R 📚
+A crash-course type material repository to the most of R.
 
 Everyone is welcome to contribute, steps for contributing:
 1. Create an **Issue** specifying the contribution work.
