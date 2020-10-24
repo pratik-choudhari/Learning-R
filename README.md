@@ -1,5 +1,5 @@
-# Learning-R
-A repository to document whatever I learn in R.
+# Learning-R 📚
+A crash-course type material repository to the most of R.
 
 Everyone is welcome to contribute, steps for contributing:
 1. Create an **Issue** specifying the contribution work.
@@ -18,11 +18,11 @@ Added:
 - Datatypes
 - Conditions and loops 
 - Operators in R
+- EDA on a dataset
 
 To do:
 - data manipulation using dplyr
 - data viz using ggplot2
-- EDA on a built-in dataset
 
 Resources:
 R Programming for Data Science(book) - downloaded for free from [here](https://leanpub.com/rprogramming).
