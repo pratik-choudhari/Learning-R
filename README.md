@@ -3,22 +3,23 @@ A repository to document whatever I learn in R.
 
 Everyone is welcome to contribute, steps for contributing:
 1. Create an **Issue** specifying the contribution work.
-2. fork this repo into your own account.
+2. Fork this repo into your own account.
 3. ``git clone <link>`` your forked repo into local machine.
-4. create new branch development using ``git checkout -b development``.
-5. ``git commit -m <your_message>`` your changes into development branch.
-6. ``git push origin development`` into your forked repository.
-7. Issue a pull request from forked repo to this repo.
-8. Get your name in CONTRIBUTORS.md!
+4. After the contribution work is ready go ahead and add it to staging area by ``git add -A``
+5. Create new branch development using ``git checkout -b development``.
+6. ``git commit -m <your_message>`` your changes into development branch.
+7. ``git push origin development`` into your forked repository.
+8. Issue a pull request from forked repo to this repo.
+9. Get your name in CONTRIBUTORS.md!
 
 __Note: Add dataset only in zip format and if size less than an MB, else add link to the dataset in a readme file.__
 
 Added:
 - Datatypes
 - Conditions and loops 
+- Operators in R
 
 To do:
-- Operators in R
 - data manipulation using dplyr
 - data viz using ggplot2
 - EDA on a built-in dataset
