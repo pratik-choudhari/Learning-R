@@ -5,8 +5,8 @@ Everyone is welcome to contribute, steps for contributing:
 1. Create an **Issue** specifying the contribution work.
 2. Fork this repo into your own account.
 3. ``git clone <link>`` your forked repo into local machine.
-4. After the contribution work is ready go ahead and add it to staging area by ``git add -A``
-5. Create new branch development using ``git checkout -b development``.
+4. Create new branch development using ``git checkout -b development``.
+5. After the contribution work is ready go ahead and add it to staging area by ``git add -A``
 6. ``git commit -m <your_message>`` your changes into development branch.
 7. ``git push origin development`` into your forked repository.
 8. Issue a pull request from forked repo to this repo.
